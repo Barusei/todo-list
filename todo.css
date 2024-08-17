@@ -41,7 +41,7 @@ span{
 }
 
 input[type="date"]{
-    padding: 8px 5px;
+    list-style: none;
 }
 
 button{
